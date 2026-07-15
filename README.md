@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there! I'm Liliana 👋
 
+I'm a self-taught generalist. I find things that aren't supposed to be findable, get them running on hardware they weren't built for, and sometimes document what I learn.
+
+My work sits at the intersection of **digital preservation**, **legacy software recovery**, and **low-level systems tinkering**. I've been doing this since I was approximately 12 years old.
+
+I'm interested in legacy software recovery, rare game preservation. And maybe getting something ancient to run on modern hardware.
 <!--
 **TheAlepou/TheAlepou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
