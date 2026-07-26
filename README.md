@@ -1,4 +1,4 @@
-## Hi there! I'm Liliana 👋
+## Hi there! I'm Riru 👋
 
 I'm a self-taught generalist. I find things that aren't supposed to be findable, get them running on hardware they weren't built for, and sometimes document what I learn.
 
